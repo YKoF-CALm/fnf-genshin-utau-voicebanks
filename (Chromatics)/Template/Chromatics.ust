@@ -4,8 +4,8 @@ UST Version1.2
 Tempo=120.00
 Tracks=1
 ProjectName=New Project
-VoiceDir=C:\Users\user\Desktop\Games\Miscellaneous\FNF\Mod Practice\Voicebanks\Custom\Lisa
-OutFile=C:\Users\andre\Downloads\FL Studio\Chromatic Scales\NEON CHROM.wav
+VoiceDir=C:\Users\user\Desktop\Games\Miscellaneous\FNF\Mod Practice\Voicebanks\funkin-utau-main\1 Works on UTAU\BF FNF Power voicebank
+OutFile=C:\Users\user\Desktop\Games\Miscellaneous\FNF\Mod Practice\Voicebanks\Custom\Chromatics\Zhongli.wav
 CacheDir=Chromatics.cache
 Tool1=wavtool.exe
 Tool2=f2resamp64.exe
