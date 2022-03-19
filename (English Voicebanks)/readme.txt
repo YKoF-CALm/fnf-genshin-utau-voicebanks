@@ -1,0 +1,1 @@
+These voicebanks were made with the English voice lines. They are to be used for the "FNF: Ludi Harpastum" mod.
