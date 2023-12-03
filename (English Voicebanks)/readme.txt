@@ -1,1 +1,2 @@
-These voicebanks were made with the English voice lines. They were originally for the "FNF: Ludi Harpastum" mod, but since it's cancelled, just have a blast with 'em. Don't forget to credit me, of course.
+These voicebanks were made with the English voice lines. Originally for the "FNF: Ludi Harpastum" mod, they're here now as alternate voices for the characters, so just have a blast with 'em.
+Don't forget to credit me, of course.
